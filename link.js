@@ -1,1 +1,3 @@
-const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbWlXVkttMFFDdzNiY2tXQ2lvSWl1REdtazB4UXxBQ3Jtc0tuQzlPSDhPSU1nN2tYNjJKbk50UFEtRUgtaW9DenFMTjVtLUJRcVNYOHJHMkN2aVFXSUZ3eWtXc1NXUFh3SHU2T1hfY3N0dlNGVm85LWtQUmw1YTlzNm9fWVZnenR3d2NYajZ2NFhwblJrS0NVTTN5MA&q=https%3A%2F%2Fmwamgz.paiatialdates.net%2F%3Futm_source%3Dda57dc555e50572d%26s1%3D188152%26s2%3D1817897%26s3%3DBx%26s5%3DTm%26j1%3D1&html_redirect=1 ";
+const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbDdiOWxoSzJGaXlWTW1NU1YxcUdnVExzTE5Gd3xBQ3Jtc0ttTXc5NXFHMmFjcFo4WVFTTy1sQXNlNm5tNWIxQmJqTW5GN1M0OUdPcjJvSFpuWUsxUGZrZ2QtWHJyaWRhYkJqMTlPa1lGM1lfYzY0UGVFeFBOdWozQk1zbkhoUWpJUE1tb3ZJcl8tVHFZdXdYSlh4TQ&q=https%3A%2F%2Fodjora.palatlaldate.com%2F%3Futm_source%3Dda57dc555e50572d%26s1%3D142414%26s2%3D1843711%26s3%3DLtx_S_Number_1%26j1%3D1&html_redirect=1 ";
+
+
